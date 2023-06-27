@@ -1,2 +1,2 @@
 # CalculadoraIMC
-calculador imc em js, css e html
+Calculadora imc em js, css e html
